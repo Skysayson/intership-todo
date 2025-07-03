@@ -1,0 +1,6 @@
+{
+  "watch": ["."],
+  "ignore": ["node_modules", "../client"],
+  "ext": "js,json",
+  "legacyWatch": true
+}
